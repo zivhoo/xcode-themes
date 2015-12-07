@@ -1,5 +1,8 @@
 Your code doesn't have to look so sour. I've collected a list of Xcode themes (and fonts) a while ago. Many more themes have been submitted in the meanwhile so if you have a theme you'd like to add to the list, just let me know!
 
+放置目录
+/Users/huxf/Library/Developer/Xcode/UserData/FontAndColorThemes/
+
 <hr>
 
 ## Xcode themes
